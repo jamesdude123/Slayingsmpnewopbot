@@ -6,7 +6,7 @@ from flask import Flask
 from threading import Thread
 
 # 1. Paste your FreeMCServer Public Page URL here
-PUBLIC_SERVER_URL"https://freemcserver.net/server/2077426"
+PUBLIC_SERVER_URL = "https://freemcserver.net/server/2077426"
 
 app = Flask('')
 
